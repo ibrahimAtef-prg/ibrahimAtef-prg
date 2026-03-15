@@ -59,18 +59,6 @@ engineer = {
 ![Pandas](https://img.shields.io/badge/Pandas-40A8D8?style=flat-square&logo=pandas&logoColor=0d1a24)
 ![OpenCV](https://img.shields.io/badge/OpenCV-70D040?style=flat-square&logo=opencv&logoColor=101a0d)
 
-**Infra & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-40A0E0?style=flat-square&logo=docker&logoColor=0d1424)
-![AWS](https://img.shields.io/badge/AWS-F09830?style=flat-square&logo=amazon-aws&logoColor=1a1208)
-![GCP](https://img.shields.io/badge/GCP-4898E8?style=flat-square&logo=google-cloud&logoColor=0d1424)
-![SQL](https://img.shields.io/badge/SQL-C040D8?style=flat-square&logo=postgresql&logoColor=140d1a)
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-5588CC?style=flat-square&logo=cplusplus&logoColor=0a1020)
-![Shell](https://img.shields.io/badge/Shell-4DBB5F?style=flat-square&logo=gnu-bash&logoColor=0a1a0d)
-
 ---
 
 ## ░░ GitHub Insights
@@ -103,20 +91,10 @@ engineer = {
 <tr>
 <td width="33%">
 
-**🧠 AI Medical Diagnosis**
-> Deep learning model for early disease detection from medical imaging with explainable AI outputs.
+**Synth DataGEN IDE extension**
 
-`PyTorch` `OpenCV`
+`Py` `webpack`
 🟢 **Active Development**
-
-</td>
-<td width="33%">
-
-**🚁 RL Drone Swarms**
-> Multi-agent coordinated movement patterns using MARL in simulated terrain environments.
-
-`TensorFlow` `RL`
-🔵 **Research Stage**
 
 </td>
 <td width="33%">
