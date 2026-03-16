@@ -2,7 +2,7 @@
 # 🌌 Welcome to Ibrahim Atef's Neural Workspace
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/main/mountain-image.jpg" width="100%" alt="Golden Mountain Banner" />
+  <img src="https://raw.githubusercontent.com/[ibrahimAtef-prg]/[ibrahimAtef-prg]/main/mountain.jpeg" width="100%" alt="Golden Mountain Banner" />
 </p>
 
 <p align="center">
@@ -71,5 +71,5 @@ I am a **Machine Learning & AI Engineer** specialized in building intelligent sy
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/main/pillars.png" width="80%" alt="Dithered Pillars Divider" />
+  <img src="https://raw.githubusercontent.com/[ibrahimAtef-prg]/[ibrahimAtef-prg]/main/pillars.jpg" width="80%" alt="Dithered Pillars Divider" />
 </p>
