@@ -1,8 +1,7 @@
-
 # 🌌 Welcome to Ibrahim Atef's Neural Workspace
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[ibrahimAtef-prg]/[ibrahimAtef-prg]/main/mountain.jpeg" width="100%" alt="Golden Mountain Banner" />
+  <img src="./mountain.jpeg" width="100%" alt="Golden Mountain Banner" />
 </p>
 
 <p align="center">
@@ -58,8 +57,8 @@ I am a **Machine Learning & AI Engineer** specialized in building intelligent sy
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="Ibrahim's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -71,5 +70,5 @@ I am a **Machine Learning & AI Engineer** specialized in building intelligent sy
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[ibrahimAtef-prg]/[ibrahimAtef-prg]/main/pillars.jpg" width="80%" alt="Dithered Pillars Divider" />
+  <img src="./pillars.jpg" width="100%" alt="Dithered Pillars Divider" />
 </p>
